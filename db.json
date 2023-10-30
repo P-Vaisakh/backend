@@ -1,0 +1,242 @@
+{
+  "videos": [
+    {
+      "id": 1,
+      "video_title": "JavaScript Full Course for free 🌐",
+      "cover_img": "https://img.youtube.com/vi/8dWL3wF_OMw/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/8dWL3wF_OMw?autoplay=1"
+    },
+    {
+      "id": 5,
+      "video_title": "Harvard CS50 – Full Computer Science University Course",
+      "cover_img": "https://img.youtube.com/vi/8mAITcNt710/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/8mAITcNt710?autoplay=1"
+    },
+    {
+      "id": 6,
+      "video_title": "Learn React 18 with Redux Toolkit – Full Tutorial for Beginners",
+      "cover_img": "https://img.youtube.com/vi/2-crBg6wpp0/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/2-crBg6wpp0?autoplay=1"
+    },
+    {
+      "id": 7,
+      "video_title": "Learn JavaScript With This ONE Project",
+      "cover_img": "https://img.youtube.com/vi/E3XxeE7NF30/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/E3XxeE7NF30?autoplay=1"
+    },
+    {
+      "id": 8,
+      "video_title": "old songs but it's lofi remix",
+      "cover_img": "https://img.youtube.com/vi/BrnDlRmW5hs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/BrnDlRmW5hs?autoplay=1"
+    },
+    {
+      "id": "lo94rze0",
+      "video_title": "Rebirth",
+      "cover_img": "https://img.youtube.com/vi/9k0ImAZq9PQ/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/9k0ImAZq9PQ?autoplay=1"
+    },
+    {
+      "id": "lo94t3dq",
+      "video_title": "Shanka Tribe | Travelling Gypsies ft. 6091 | Official Music Video",
+      "cover_img": "https://img.youtube.com/vi/uw5C8nkkyBs/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/uw5C8nkkyBs?autoplay=1"
+    },
+    {
+      "id": 9,
+      "video_title": "Social network",
+      "cover_img": "https://img.youtube.com/vi/bupOXE5nFDE/hqdefault.jpg",
+      "video_url": "https://www.youtube.com/embed/bupOXE5nFDE?autoplay=1"
+    }
+  ],
+  "collections": [
+    {
+      "id": "lo94rb2c",
+      "collectionName": "education",
+      "videos": [
+        {
+          "id": 1,
+          "video_title": "JavaScript Full Course for free 🌐",
+          "cover_img": "https://img.youtube.com/vi/8dWL3wF_OMw/hqdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/8dWL3wF_OMw?autoplay=1"
+        },
+        {
+          "id": 5,
+          "video_title": "Harvard CS50 – Full Computer Science University Course",
+          "cover_img": "https://img.youtube.com/vi/8mAITcNt710/hqdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/8mAITcNt710?autoplay=1"
+        },
+        {
+          "id": 6,
+          "video_title": "Learn React 18 with Redux Toolkit – Full Tutorial for Beginners",
+          "cover_img": "https://img.youtube.com/vi/2-crBg6wpp0/hqdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/2-crBg6wpp0?autoplay=1"
+        },
+        {
+          "id": 7,
+          "video_title": "Learn JavaScript With This ONE Project",
+          "cover_img": "https://img.youtube.com/vi/E3XxeE7NF30/hqdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/E3XxeE7NF30?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "lo96r1i1",
+      "collectionName": "entertainment",
+      "videos": [
+        {
+          "id": 8,
+          "video_title": "old songs but it's lofi remix",
+          "cover_img": "https://img.youtube.com/vi/BrnDlRmW5hs/hqdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/BrnDlRmW5hs?autoplay=1"
+        },
+        {
+          "id": "lo94rze0",
+          "video_title": "Rebirth",
+          "cover_img": "https://img.youtube.com/vi/9k0ImAZq9PQ/hqdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/9k0ImAZq9PQ?autoplay=1"
+        },
+        {
+          "id": "lo94t3dq",
+          "video_title": "Shanka Tribe | Travelling Gypsies ft. 6091 | Official Music Video",
+          "cover_img": "https://img.youtube.com/vi/uw5C8nkkyBs/hqdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/uw5C8nkkyBs?autoplay=1"
+        }
+      ]
+    },
+    {
+      "id": "4yoDJZ6",
+      "collectionName": "movies",
+      "videos": [
+        {
+          "id": 9,
+          "video_title": "Social network",
+          "cover_img": "https://img.youtube.com/vi/bupOXE5nFDE/hqdefault.jpg",
+          "video_url": "https://www.youtube.com/embed/bupOXE5nFDE?autoplay=1"
+        }
+      ]
+    }
+  ],
+  "histories": [
+    {
+      "id": "lo8ll23e",
+      "name": "JavaScript Full Course for free 🌐",
+      "url": "https://www.youtube.com/embed/8dWL3wF_OMw?autoplay=1",
+      "d_and_t": "27-10-2023 06-06 PM"
+    },
+    {
+      "id": "lo8ll53t",
+      "name": "Harvard CS50 – Full Computer Science University Course",
+      "url": "https://www.youtube.com/embed/8mAITcNt710?autoplay=1",
+      "d_and_t": "27-10-2023 06-06 PM"
+    },
+    {
+      "id": "lo96zqot",
+      "name": "Learn JavaScript With This ONE Project",
+      "url": "https://www.youtube.com/embed/E3XxeE7NF30?autoplay=1",
+      "d_and_t": "28-10-2023 04-06 AM"
+    },
+    {
+      "id": "lo971vrz",
+      "name": "Learn React 18 with Redux Toolkit – Full Tutorial for Beginners",
+      "url": "https://www.youtube.com/embed/2-crBg6wpp0?autoplay=1",
+      "d_and_t": "28-10-2023 04-07 AM"
+    },
+    {
+      "id": "lo97233k",
+      "name": "Harvard CS50 – Full Computer Science University Course",
+      "url": "https://www.youtube.com/embed/8mAITcNt710?autoplay=1",
+      "d_and_t": "28-10-2023 04-07 AM"
+    },
+    {
+      "id": "lo974fqq",
+      "name": "JavaScript Full Course for free 🌐",
+      "url": "https://www.youtube.com/embed/8dWL3wF_OMw?autoplay=1",
+      "d_and_t": "28-10-2023 04-09 AM"
+    },
+    {
+      "id": "lo977faj",
+      "name": "Learn React 18 with Redux Toolkit – Full Tutorial for Beginners",
+      "url": "https://www.youtube.com/embed/2-crBg6wpp0?autoplay=1",
+      "d_and_t": "28-10-2023 04-12 AM"
+    },
+    {
+      "id": "lo978is8",
+      "name": "Learn JavaScript With This ONE Project",
+      "url": "https://www.youtube.com/embed/E3XxeE7NF30?autoplay=1",
+      "d_and_t": "28-10-2023 04-12 AM"
+    },
+    {
+      "id": "lo9z0taa",
+      "name": "Social network",
+      "url": "https://www.youtube.com/embed/bupOXE5nFDE?autoplay=1",
+      "d_and_t": "28-10-2023 05-10 PM"
+    },
+    {
+      "id": "lo9z0xk0",
+      "name": "old songs but it's lofi remix",
+      "url": "https://www.youtube.com/embed/BrnDlRmW5hs?autoplay=1",
+      "d_and_t": "28-10-2023 05-10 PM"
+    },
+    {
+      "id": "lo9z3ar7",
+      "name": "Rebirth",
+      "url": "https://www.youtube.com/embed/9k0ImAZq9PQ?autoplay=1",
+      "d_and_t": "28-10-2023 05-12 PM"
+    },
+    {
+      "id": "lo9z3sim",
+      "name": "Shanka Tribe | Travelling Gypsies ft. 6091 | Official Music Video",
+      "url": "https://www.youtube.com/embed/uw5C8nkkyBs?autoplay=1",
+      "d_and_t": "28-10-2023 05-13 PM"
+    },
+    {
+      "id": "lo9zjzdn",
+      "name": "Social network",
+      "url": "https://www.youtube.com/embed/bupOXE5nFDE?autoplay=1",
+      "d_and_t": "28-10-2023 05-25 PM"
+    },
+    {
+      "id": "lo9zz0ve",
+      "name": "Learn React 18 with Redux Toolkit – Full Tutorial for Beginners",
+      "url": "https://www.youtube.com/embed/2-crBg6wpp0?autoplay=1",
+      "d_and_t": "28-10-2023 05-37 PM"
+    },
+    {
+      "id": "lo9zz5r9",
+      "name": "Learn React 18 with Redux Toolkit – Full Tutorial for Beginners",
+      "url": "https://www.youtube.com/embed/2-crBg6wpp0?autoplay=1",
+      "d_and_t": "28-10-2023 05-37 PM"
+    },
+    {
+      "id": "loa02k77",
+      "name": "JavaScript Full Course for free 🌐",
+      "url": "https://www.youtube.com/embed/8dWL3wF_OMw?autoplay=1",
+      "d_and_t": "28-10-2023 05-40 PM"
+    },
+    {
+      "id": "loa02q7o",
+      "name": "Harvard CS50 – Full Computer Science University Course",
+      "url": "https://www.youtube.com/embed/8mAITcNt710?autoplay=1",
+      "d_and_t": "28-10-2023 05-40 PM"
+    },
+    {
+      "id": "loa02y1y",
+      "name": "JavaScript Full Course for free 🌐",
+      "url": "https://www.youtube.com/embed/8dWL3wF_OMw?autoplay=1",
+      "d_and_t": "28-10-2023 05-40 PM"
+    },
+    {
+      "id": "loa03734",
+      "name": "JavaScript Full Course for free 🌐",
+      "url": "https://www.youtube.com/embed/8dWL3wF_OMw?autoplay=1",
+      "d_and_t": "28-10-2023 05-40 PM"
+    },
+    {
+      "id": "loa04f63",
+      "name": "old songs but it's lofi remix",
+      "url": "https://www.youtube.com/embed/BrnDlRmW5hs?autoplay=1",
+      "d_and_t": "28-10-2023 05-41 PM"
+    }
+  ]
+}
